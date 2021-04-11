@@ -7,6 +7,8 @@ EN DESAROLLO
 
 Fuentes de información
 
+[UAV Tech - Presets] https://theuavtech.com/presets/
+
 [UAV Tech - Manual de PIDS] https://drive.google.com/file/d/1WxgSUsG6UnvXjyxJSsAdw9iqoO21Ddmq/view  
 
 [UAV Tech - RPM Filters] https://www.youtube.com/watch?v=rawGQvMRzM4  
